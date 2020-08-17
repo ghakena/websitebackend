@@ -1,4 +1,5 @@
 // import all models from server.js
+'use strict';
 
 var models = require('./server.js').models;
 
